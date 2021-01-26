@@ -1,0 +1,6 @@
+.BoxList {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  flex-basis: 50%;
+}
