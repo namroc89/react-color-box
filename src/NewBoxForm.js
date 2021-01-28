@@ -42,7 +42,7 @@ const NewBoxForm = ({ addBox }) => {
       />
       <label htmlFor="color">Color: </label>
       <input
-        type="color"
+        type="text"
         id="color"
         name="color"
         value={formData.backgroundColor}

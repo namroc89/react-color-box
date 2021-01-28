@@ -24,7 +24,7 @@ function BoxList() {
       handleRemove={remove}
     />
   ));
-  console.log(boxList);
+
   return (
     <div>
       <NewBoxForm addBox={addBox} />
